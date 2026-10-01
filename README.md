@@ -2,9 +2,6 @@
 
 > Complete Real-Time Messaging Platform and Multimodal AI Workspace
 
-[![Live Application](https://img.shields.io/badge/Live_App-Praxa_AI-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ais-pre-6zzk6gposl3knpm4vv4wgo-544509314289.asia-southeast1.run.app)
-
----
 
 ## 📖 Description
 
